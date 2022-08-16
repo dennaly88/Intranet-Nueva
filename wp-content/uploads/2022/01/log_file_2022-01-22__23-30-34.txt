@@ -1,0 +1,27 @@
+
+---Archivos descargados---
+Los archivos de importación para Inspiro Lite - Gutenberg ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://192.168.6.95/vtv
+Archivo de datos = /var/www/vtv/wp-content/uploads/2022/01/demo-content-import-file_2022-01-22__23-30-34.xml
+Archivo de widget = /var/www/vtv/wp-content/uploads/2022/01/demo-widgets-import-file_2022-01-22__23-30-34.json
+Archivo del personalizador = /var/www/vtv/wp-content/uploads/2022/01/demo-customizer-import-file_2022-01-22__23-30-34.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+

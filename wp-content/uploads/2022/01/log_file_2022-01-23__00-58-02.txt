@@ -1,0 +1,86 @@
+
+---Archivos descargados---
+Los archivos de importación para Inspiro Lite - Elementor ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://192.168.6.95/vtv
+Archivo de datos = /var/www/vtv/wp-content/uploads/2022/01/demo-content-import-file_2022-01-23__00-58-02.xml
+Archivo de widget = /var/www/vtv/wp-content/uploads/2022/01/demo-widgets-import-file_2022-01-23__00-58-02.json
+Archivo del personalizador = /var/www/vtv/wp-content/uploads/2022/01/demo-customizer-import-file_2022-01-23__00-58-02.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+---Importando los widgets---
+Barra lateral : 
+
+Buscar - Search - Importado
+Texto - About us - Importado
+Social Icons by WPZOOM - Follow us - Importado
+
+Barra lateral del blog : 
+
+Buscar - Search - Importado
+Texto - About - Importado
+Categorías - Sin título - Importado
+Social Icons by WPZOOM - Follow us - Importado
+Instagram Widget by WPZOOM - Instagram - Importado
+
+Pie de página 1 : 
+
+Texto - About us - Importado
+
+Pie de página 2 : 
+
+Texto - Our Address - Importado
+
+Pie de página 3 : 
+
+Social Icons by WPZOOM - Follow Us - Importado
+
+Pie de página 4 : 
+
+Instagram Widget by WPZOOM - Instagram - Importado
+
+Iconos sociales en la cabecera : 
+
+Social Icons by WPZOOM - Follow us - Importado
+
+Barra de Instagram a pie de página : 
+
+Instagram Widget by WPZOOM - Instagram - Importado
+
+
+
+---Importación de los ajustes del personalizador---
+Error: el archivo de importación del personalizador no es adecuado para el tema actual. Solo puedes importar los ajustes del personalizador para el mismo tema o un tema hijo.
+
+---ocdi/after_import---
+

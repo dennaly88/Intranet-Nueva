@@ -1,0 +1,99 @@
+# Translation of Themes - News Live in Spanish (Venezuela)
+# This file is distributed under the same license as the Themes - News Live package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-01 07:40:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_VE\n"
+"Project-Id-Version: Themes - News Live\n"
+
+#. Description of the theme
+msgid "News live is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. News live is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. News live is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demo.themeansar.com/newsup and documentation at https://docs.themeansar.com/docs/newsup/"
+msgstr "News live es un tema para WordPress rápido, limpio, de aspecto moderno, adaptable y para revistas de noticias. El tema está lleno de widgets, por lo que usuarios pueden gestionar el contenido mediante el uso de widgets fáciles de usar. News live es adecuado para noticias dinámicas, periódicos, revistas, editoriales, blogs, editores, revistas online y de juegos, portales de noticias, blogs personales, periódicos, sitios de publicación o de revisión y cualquier web creativa. Newsup es compatible con SEO, WPML, Gutenberg, traducción y RTL. Vista previa en vivo: https://demo.themeansar.com/newsup y documentación en https://docs.themeansar.com/docs/newsup/"
+
+#. Theme Name of the theme
+msgid "News Live"
+msgstr "News Live"
+
+#. translators: placeholder replaced with string
+#: footer.php:171
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:171
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s"
+
+#. translators: placeholder replaced with string
+#: footer.php:165
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: footer.php:162
+msgid "https://wordpress.org/"
+msgstr "https://ve.wordpress.org/"
+
+#: header.php:79
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: frontpage-options.php:49
+msgid "Select category for Editor 2 Post"
+msgstr "Selecciona la categoría para las 2 entradas del editor"
+
+#: frontpage-options.php:48
+msgid "Category"
+msgstr "Categoría"
+
+#: frontpage-options.php:27
+msgid "Editor Post Section"
+msgstr "Sección de entradas del editor"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Portada"
+
+#: hooks/hooks.php:141
+msgid "Categorised"
+msgstr "Categorizado"
+
+#: hooks/hooks.php:133
+msgid "Popular"
+msgstr "Popular"
+
+#: hooks/hooks.php:126
+msgid "Recent"
+msgstr "Reciente"
+
+#: functions.php:76
+msgid "Front-Page Right Sidebar Section"
+msgstr "Sección de la barra lateral derecha de la portada"
+
+#: functions.php:66
+msgid "Front-Page Left Sidebar Section"
+msgstr "Sección de la barra lateral izquierda de la portada"
+
+#: functions.php:52
+msgid "Top Header menu"
+msgstr "Menú de la parte superior de la cabecera"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/free-themes/news-live/"
+msgstr "https://themeansar.com/free-themes/news-live/"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "Themeansar"
+msgstr "Themeansar"
